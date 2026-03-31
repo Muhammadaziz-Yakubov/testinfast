@@ -152,7 +152,7 @@ export default function Exam() {
 
     // Send to backend (non-blocking)
     try {
-      await fetch('/api/submit-result', {
+      await fetch('https://testinfast.onrender.com/api/submit-result', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(result),
