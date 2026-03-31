@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "topic": "HTML",
+    "question": "HTML da eng katta sarlavha uchun qaysi tag ishlatiladi?",
+    "options": {
+      "a": "<h6>",
+      "b": "<head>",
+      "c": "<h1>",
+      "d": "<title>"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 2,
+    "topic": "HTML",
+    "question": "Rasm qo‘shish uchun qaysi HTML tag ishlatiladi?",
+    "options": {
+      "a": "<image>",
+      "b": "<img>",
+      "c": "<src>",
+      "d": "<picture>"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 3,
+    "topic": "HTML",
+    "question": "Link yaratish uchun qaysi tag ishlatiladi?",
+    "options": {
+      "a": "<a>",
+      "b": "<link>",
+      "c": "<href>",
+      "d": "<url>"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 4,
+    "topic": "HTML",
+    "question": "Form ichida matn kiritish uchun qaysi element ishlatiladi?",
+    "options": {
+      "a": "<textarea>",
+      "b": "<label>",
+      "c": "<input>",
+      "d": "<button>"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 5,
+    "topic": "HTML",
+    "question": "HTML hujjatining asosiy tanasi qaysi tag ichida bo‘ladi?",
+    "options": {
+      "a": "<main>",
+      "b": "<body>",
+      "c": "<section>",
+      "d": "<html>"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 6,
+    "topic": "CSS",
+    "question": "Element matn rangini o‘zgartirish uchun qaysi CSS property ishlatiladi?",
+    "options": {
+      "a": "background-color",
+      "b": "font-color",
+      "c": "text-color",
+      "d": "color"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 7,
+    "topic": "CSS",
+    "question": "Element orqa fon rangini berish uchun qaysi property ishlatiladi?",
+    "options": {
+      "a": "background-color",
+      "b": "color",
+      "c": "bg",
+      "d": "fill"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 8,
+    "topic": "CSS",
+    "question": "Flexbox ni yoqish uchun qaysi qiymat ishlatiladi?",
+    "options": {
+      "a": "display: flex;",
+      "b": "position: flex;",
+      "c": "flex: display;",
+      "d": "layout: flex;"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 9,
+    "topic": "CSS",
+    "question": "Elementni markazga joylash uchun ko‘p ishlatiladigan property qaysi?",
+    "options": {
+      "a": "justify-content",
+      "b": "z-index",
+      "c": "overflow",
+      "d": "opacity"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 10,
+    "topic": "CSS",
+    "question": "Qaysi CSS property elementning tashqi bo‘sh joyini bildiradi?",
+    "options": {
+      "a": "padding",
+      "b": "margin",
+      "c": "border",
+      "d": "spacing"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 11,
+    "topic": "CSS",
+    "question": "Qaysi CSS property ichki bo‘sh joyni bildiradi?",
+    "options": {
+      "a": "padding",
+      "b": "margin",
+      "c": "gap",
+      "d": "space"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 12,
+    "topic": "CSS",
+    "question": "Responsive dizayn uchun ko‘p ishlatiladigan narsa qaysi?",
+    "options": {
+      "a": "hover",
+      "b": "transition",
+      "c": "media query",
+      "d": "z-index"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 13,
+    "topic": "CSS",
+    "question": "Qaysi qiymat elementni sahifada mutlaq joylashtiradi?",
+    "options": {
+      "a": "position: relative;",
+      "b": "position: fixed;",
+      "c": "position: absolute;",
+      "d": "position: static;"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 14,
+    "topic": "JavaScript",
+    "question": "JavaScript da o‘zgaruvchi e’lon qilish uchun qaysilar ishlatiladi?",
+    "options": {
+      "a": "var, let, const",
+      "b": "int, string, bool",
+      "c": "define, make, set",
+      "d": "new, create, data"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 15,
+    "topic": "JavaScript",
+    "question": "Qaysi metod massivni aylanish uchun ko‘p ishlatiladi?",
+    "options": {
+      "a": "forEach()",
+      "b": "parse()",
+      "c": "assign()",
+      "d": "return()"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 16,
+    "topic": "JavaScript",
+    "question": "DOM orqali elementni id bo‘yicha olish uchun qaysi metod ishlatiladi?",
+    "options": {
+      "a": "document.query()",
+      "b": "document.getElementById()",
+      "c": "document.findById()",
+      "d": "document.selectId()"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 17,
+    "topic": "JavaScript",
+    "question": "Qaysi event foydalanuvchi tugmani bosganda ishlaydi?",
+    "options": {
+      "a": "onchange",
+      "b": "onsubmit",
+      "c": "onclick",
+      "d": "onhover"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 18,
+    "topic": "JavaScript",
+    "question": "Qaysi operator tenglikni tekshiradi?",
+    "options": {
+      "a": "=",
+      "b": "== yoki ===",
+      "c": "=>",
+      "d": "!="
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 19,
+    "topic": "JavaScript",
+    "question": "Function nima qiladi?",
+    "options": {
+      "a": "Rang beradi",
+      "b": "Kod blokini qayta ishlatishga yordam beradi",
+      "c": "HTML yaratadi",
+      "d": "CSS yozadi"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 20,
+    "topic": "JavaScript",
+    "question": "Qaysi metod massiv oxiriga element qo‘shadi?",
+    "options": {
+      "a": "pop()",
+      "b": "shift()",
+      "c": "push()",
+      "d": "slice()"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 21,
+    "topic": "JavaScript",
+    "question": "JSON nimani anglatadi?",
+    "options": {
+      "a": "Java Syntax Object Notation",
+      "b": "JavaScript Object Notation",
+      "c": "Java Source Open Network",
+      "d": "Joined Script Object Name"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 22,
+    "topic": "JavaScript",
+    "question": "Qaysi metod matnni son ko‘rinishiga o‘tkazadi?",
+    "options": {
+      "a": "toString()",
+      "b": "parseInt()",
+      "c": "join()",
+      "d": "concat()"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 23,
+    "topic": "React",
+    "question": "React nima?",
+    "options": {
+      "a": "Backend framework",
+      "b": "Database",
+      "c": "UI kutubxonasi",
+      "d": "Server tili"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 24,
+    "topic": "React",
+    "question": "React da component nima?",
+    "options": {
+      "a": "Qayta ishlatiladigan UI bo‘lagi",
+      "b": "CSS class",
+      "c": "Database table",
+      "d": "API endpoint"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 25,
+    "topic": "React",
+    "question": "Props nima uchun ishlatiladi?",
+    "options": {
+      "a": "Serverni yoqish uchun",
+      "b": "Componentga ma’lumot uzatish uchun",
+      "c": "Database ulash uchun",
+      "d": "CSS yozish uchun"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 26,
+    "topic": "React",
+    "question": "State nima?",
+    "options": {
+      "a": "Doimiy CSS",
+      "b": "Component ichidagi o‘zgaruvchan ma’lumot",
+      "c": "HTML atribut",
+      "d": "API token"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 27,
+    "topic": "React",
+    "question": "Qaysi hook state boshqarish uchun ishlatiladi?",
+    "options": {
+      "a": "useFetch",
+      "b": "useStyle",
+      "c": "useState",
+      "d": "usePage"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 28,
+    "topic": "React",
+    "question": "Qaysi hook side effectlar uchun ishlatiladi?",
+    "options": {
+      "a": "useEffect",
+      "b": "useState",
+      "c": "useRef",
+      "d": "useClass"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 29,
+    "topic": "React",
+    "question": "React da ro‘yxat render qilishda qaysi metod ko‘p ishlatiladi?",
+    "options": {
+      "a": "filter()",
+      "b": "map()",
+      "c": "find()",
+      "d": "reduce()"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 30,
+    "topic": "React",
+    "question": "React da har bir list element uchun muhim atribut qaysi?",
+    "options": {
+      "a": "id",
+      "b": "name",
+      "c": "key",
+      "d": "class"
+    },
+    "correctAnswer": "c"
+  }
+]
